@@ -1,0 +1,18 @@
+name = "img-gen"
+main = "src/index.ts"
+compatibility_date = "2023-11-30"
+usage_model = "standard"
+env = { }
+
+[triggers]
+crons = [ ]
+
+[ai]
+binding = "AI"
+
+[[kv_namespaces]]
+id = "8645128de5544ae2916f8e3df1b2a430"
+binding = "KVStore"
+
+[vars]
+TOKENS_LIST_KVSTORE_KEY_NAME = "tokensListJSON"
