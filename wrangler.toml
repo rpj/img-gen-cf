@@ -16,3 +16,4 @@ preview_id = "0825f383e76944fdb7959480441b970d"
 
 [vars]
 TOKENS_LIST_KVSTORE_KEY_NAME = "tokensListJSON"
+MODEL_NAME_KVSTORE_KEY_NAME = "modelName"
